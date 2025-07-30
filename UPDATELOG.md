@@ -7,7 +7,7 @@
 - the alphabetical index has been removed, and additional information about proxies is now hidden by default
 - notification of exceeding the number of devices in the subscription
 - support for vless:// links with templates by @legiz-ru
-- started the process of renaming to Koala Clash, replaced icons
+- started the process of renaming to Clash Verge Rev Lite, replaced icons
 - traffic information has been reworked on profile page
 
 ## v0.2.3

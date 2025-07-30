@@ -53,7 +53,7 @@ export function AppSidebar() {
             className="h-6 w-6 flex-shrink-0"
           />
           <span className="font-semibold whitespace-nowrap group-data-[state=collapsed]:hidden">
-            Koala Clash
+            Clash Verge Rev Lite
           </span>
         </SidebarMenuButton>
       </SidebarHeader>
